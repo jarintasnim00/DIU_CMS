@@ -1,0 +1,30 @@
+ #main-header{
+	width:100%;
+	height:100%;
+	background:blue;
+	float:left;
+	}
+  #logo img{
+	width:10%;
+	height: 10%;
+    margin-top:10px;
+	float:left;
+	}
+	#main-footer{
+	width:100%;
+	height:100%;
+	background:blue;
+	float:left;
+	}
+
+	.container{
+		width:1500px;
+	    height:600px;
+	  background-image:url(/img/transport.png);
+	  background-size: cover;
+	 
+		}
+		.container h2 a{
+			color:black;
+
+		}
